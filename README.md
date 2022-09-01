@@ -1,3 +1,3 @@
-# acc-server-configurator-file-watcher
+# ACC Server Configurator
 
-A small tool written in c# to restart the acc server exe after changes from the api
+for a detailed `README.md` go to: [ACC Server Configurator Frontend](https://github.com/PsclDev/acc-server-configurator-frontend)
